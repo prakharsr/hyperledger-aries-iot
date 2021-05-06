@@ -1,1 +1,1 @@
-# hyperledger-aries-iot-beaglebone-iot
+# hyperledger-aries-iot
